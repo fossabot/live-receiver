@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FRuZman-de%2Flive-receiver.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FRuZman-de%2Flive-receiver?ref=badge_shield)
+
 
 <img src="https://raw.githubusercontent.com/rse/live-receiver/master/app-res-logo-black.svg" width="300" align="right" alt=""/>
 
@@ -37,3 +39,7 @@ consisting of three particular components:
   It is primarily based on the Open Source software components
   [Electron](https://www.electronjs.org/) and [FFMpeg](https://ffmpeg.org/).
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FRuZman-de%2Flive-receiver.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FRuZman-de%2Flive-receiver?ref=badge_large)
